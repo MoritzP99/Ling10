@@ -53,7 +53,7 @@ Each Variant contains the following files
   <li>Hebrew</li>
   <li>Portugese</li>
   <li>Polish</li>
-  <li>Dutch</li>
+  <li>German</li>
   <li>Japanese</li>
   <li>Italian</li>
   </ul>
